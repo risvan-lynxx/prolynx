@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const token = "7d036e2e3217a216687911bcec56e7566e3cd6a8227524c75bad4e5bfefcb4ef2cdc0f3a2f0b5a4ba4d17573f4a22a96e5ff30cdb5662b4311eeff3ed254c993";
+const token = "51b0050e177d97a58395d58c94bc342e1700a0f1ee544a01dc88e92057b06a853be2514cc22004be948f43ca84ccbc650f20f6d82daa2402c400087b145d194c";
 
 async function create(data) {
   try {
